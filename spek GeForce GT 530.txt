@@ -1,0 +1,20 @@
+Device 0: "GeForce GT 530"
+  CUDA Driver Version / Runtime Version          4.1 / 4.1
+  CUDA Capability Major/Minor version number:    2.1
+  Total amount of global memory:                 1024 MBytes (1073283072 bytes)
+  ( 2) Multiprocessors x (48) CUDA Cores/MP:     96 CUDA Cores
+  GPU Clock Speed:                               1.40 GHz
+  Memory Clock rate:                             793.00 Mhz
+  Memory Bus Width:                              128-bit
+  L2 Cache Size:                                 131072 bytes
+  Max Texture Dimension Size (x,y,z)             1D=(65536), 2D=(65536,65535), 3D=(2048,2048,2048)
+  Max Layered Texture Size (dim) x layers        1D=(16384) x 2048, 2D=(16384,16384) x 2048
+  Total amount of constant memory:               65536 bytes
+  Total amount of shared memory per block:       49152 bytes
+  Total number of registers available per block: 32768
+  Warp size:                                     32
+  Maximum number of threads per block:           1024
+  Maximum sizes of each dimension of a block:    1024 x 1024 x 64
+  Maximum sizes of each dimension of a grid:     65535 x 65535 x 65535
+  Maximum memory pitch:                          2147483647 bytes
+  Texture alignment:                             512 bytes
